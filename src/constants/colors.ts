@@ -1,0 +1,10 @@
+export const primaryGreen: string = '#007A79';
+export const primaryRed: string = '#DF4848';
+export const primaryOrange: string = '#E57D0F';
+export const darkGray: string = '#555555';
+export const primaryGray: string = '#939393';
+export const secondaryGray: string = '#F1F1F1';
+export const transparent: string = 'transparent';
+export const white: string = '#FFF';
+export const black: string = '#000';
+export const gray: string = '#rgba(0, 0, 0, 0.38)';
